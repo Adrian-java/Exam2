@@ -1,0 +1,84 @@
+.form {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.firstRow, #table tr:last-child{
+    background-color: gray;
+}
+
+#table{
+    width: 450px;
+}
+
+.tdMiddle{
+    text-align: center;
+
+.form div {
+    margin: 10px 0;
+}
+
+.up, .down{
+    float:right;
+}
+.ckeckbox{
+    float:left;
+}
+
+.line{
+    text-decoration: line-through;
+    color: gray;
+}
+
+.form div label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+.form div input, select {
+    width: 200px;
+}
+
+.form-button-container {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.birthday-data {
+    display: inline-block;
+    
+    margin-top: 5px;
+    border-style: groove;
+    border-color: maroon;
+    height: 25;
+   width:300px;
+
+}
+
+.birthday-remove {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.birthday-list {
+    margin-top: 50px;
+}
+
+.birthday-row {
+   float:left;
+}
+
+.birthday-check {
+    margin-top: 50px;
+}
+
+.checkbox{
+ float:left;   
+}
